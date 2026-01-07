@@ -1,15 +1,17 @@
-# Hi, I'm Karina 👋
+# 👋Hello! I'm Karina 👩🏻‍💻
 
 I'm a Fullstack Web Developer who enjoys building web applications that are simple, functional, and user-focused.  
 I like turning ideas into real products through clean code and thoughtful design.
 
 ---
 
-## 💻 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js
-- **Backend:** Node.js, PHP (Laravel)
-- **Database:** MySQL, PostgreSQL
-- **Tools:** Git, GitHub, VS Code, Postman
+## ⚙️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React (19), Next.js (16)
+- Tailwind CSS, shadcn/ui, Radix UI, Lucide React
+- **Backend:** - Node.js, PHP (Laravel), REST APIs
+- **Database:** MySQL, PostgreSQL, Prisma ORM
+- **AI & Integrations:** Google Gemini AI, OCR & AI-powered data processing
+- **Tools:** Git, GitHub, VS Code, Postman, Vite
 
 ---
 
