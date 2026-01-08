@@ -6,8 +6,9 @@ I like turning ideas into real products through clean code and thoughtful design
 ---
 
 ## ⚙️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, shadcn/ui, Radix UI, Lucide React  
-- **Backend:** Node.js, PHP (Laravel), REST APIs  
+- **Programming Languages:** JavaScript, TypeScript, PHP  
+- **Frontend:** React.js, Next.js, Tailwind CSS, shadcn/ui, Radix UI, Lucide React   
+- **Backend:** Node.js, Laravel, REST APIs  
 - **Database:** MySQL, PostgreSQL, Prisma ORM  
 - **AI & Integrations:** Google Gemini AI, OCR & AI-powered data processing  
 - **Tools:** Git, GitHub, VS Code, Postman, Vite
