@@ -1,6 +1,6 @@
 # 👋Hello! I'm Karina 👩🏻‍💻
 
-I'm a Fullstack Web Developer who enjoys building web applications that are simple, functional, and user-focused.  
+I'm a Full-stack Web Developer who enjoys building web applications that are simple, functional, and user-focused.  
 I like turning ideas into real products through clean code and thoughtful design.
 
 ---
