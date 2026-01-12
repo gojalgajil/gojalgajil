@@ -43,7 +43,7 @@ I like turning ideas into real products through clean code and thoughtful design
 **Styling & UI:** Tailwind CSS, Lucide React  
 * Toko Apai Jaya is an e-commerce web application built with Next.js, React.js, and PostgreSQL with Prisma ORM, featuring user authentication, product catalog with categorization, and shopping cart functionality with role-based access control.  
 * Designed with focus on developer experience and scalable architecture.   
-🔗 Live: [https://tokoapaijaya-1mjc.vercel.app/](https://tokoapaijaya-1mjc.vercel.app/)
+🔗 Live: [https://tokoapaijaya.vercel.app/](https://tokoapaijaya.vercel.app/)
 
 ---
 
