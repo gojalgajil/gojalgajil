@@ -51,7 +51,7 @@ I like turning ideas into real products through clean code and thoughtful design
 **Frontend:** React.js, TypeScript, Vite, Redux  
 **Backend:** PostgreSQL, Prisma  
 **Styling & UI:** Tailwind CSS, Lucide React, Radix  
-* Taskify is a collaborative web-based task management application featuring a board-style interface (similar to Trello) that enables users to organize, track, and manage tasks through drag-and-drop functionality with real-time updates and comprehensive filtering capabilities.   
+* DIA is a collaborative web-based task management application featuring a board-style interface (similar to Trello) that enables users to organize, track, and manage tasks through drag-and-drop functionality with real-time updates and comprehensive filtering capabilities.   
 * Delivering a type-safe, responsive, and feature-rich project management solution with advanced user collaboration tools.    
 🔗 Live: [https://drive.google.com/file/d/1uUKkkbTW04exdYUg9eXnyzDKlmVcRLuP/view](https://drive.google.com/file/d/1uUKkkbTW04exdYUg9eXnyzDKlmVcRLuP/view)
 
